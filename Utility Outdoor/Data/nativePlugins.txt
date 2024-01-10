@@ -1,0 +1,8 @@
+libssl-1_1-x64.dll
+VuforiaWrapper.dll
+libcrypto-1_1-x64.dll
+
+Vuforia.dll
+AudioPluginMsHRTF.dll
+UnityUWPBridge.dll
+openblas.dll
